@@ -1,0 +1,33 @@
+,params,avg_scores,avg_std
+0,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 32}",-0.17148363034088346,0.011550161398592525
+16,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 32}",-0.17152699395623883,0.0121090315521143
+4,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 96}",-0.17174685499311568,0.011671319929532539
+7,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 144}",-0.17177921218202225,0.012003462384029636
+5,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 112}",-0.17187833744181288,0.011550619948699787
+22,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 128}",-0.17188132562803052,0.011861529090893108
+18,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 64}",-0.17188333488846377,0.011775089547443557
+20,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 96}",-0.17190731487301264,0.01208768945773442
+25,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 48}",-0.17190983958105388,0.01222671894619239
+23,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 144}",-0.17192095312142194,0.01217080894038907
+13,"{'activation': 'relu', 'loss': 'mse', 'lstm': 112}",-0.17194711313612784,0.012439048451719316
+31,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 144}",-0.17197030897612423,0.01202625009427542
+19,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 80}",-0.1719916099384687,0.01221988154450951
+24,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 32}",-0.17199894918477762,0.012198074966502223
+3,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 80}",-0.172012734684594,0.012537906156461168
+28,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 96}",-0.17202817069799053,0.012129983201711707
+6,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 128}",-0.17203065170565648,0.012521467251241588
+2,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 64}",-0.17203307226357648,0.012445571177113791
+11,"{'activation': 'relu', 'loss': 'mse', 'lstm': 80}",-0.17207750513647418,0.012440415117290288
+10,"{'activation': 'relu', 'loss': 'mse', 'lstm': 64}",-0.17208926782363118,0.01195735680966451
+26,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 64}",-0.17208976567503823,0.011686145137371215
+29,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 112}",-0.17212691321406035,0.011916626140149891
+27,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 80}",-0.17213012599315192,0.012002089961350108
+12,"{'activation': 'relu', 'loss': 'mse', 'lstm': 96}",-0.17213333037192993,0.01211115483565749
+8,"{'activation': 'relu', 'loss': 'mse', 'lstm': 32}",-0.1721745034520462,0.012343873992936301
+15,"{'activation': 'relu', 'loss': 'mse', 'lstm': 144}",-0.1722197643172181,0.011933661458516497
+30,"{'activation': 'tanh', 'loss': 'mse', 'lstm': 128}",-0.17222615109571066,0.011992781136819558
+17,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 48}",-0.17226077200709553,0.012524162839945164
+1,"{'activation': 'relu', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 48}",-0.17231229448692856,0.012436339314117943
+21,"{'activation': 'tanh', 'loss': <function my_MSE_weighted2 at 0x2aaadc4a8a60>, 'lstm': 112}",-0.17242858529535832,0.012577310753960014
+9,"{'activation': 'relu', 'loss': 'mse', 'lstm': 48}",-0.17245810006623463,0.012064499479515588
+14,"{'activation': 'relu', 'loss': 'mse', 'lstm': 128}",-0.1725052309553137,0.012325926581374809
